@@ -142,9 +142,9 @@ The `MoneyBase.API` project exposes the following endpoints:
     * **Request Body:** `ChatPollCommand` (e.g., `{ "chatId": "guid" }`).
     * **Responses:** `200 OK` (no content).
 
-* **`GET /api/Chat/get-active`**
-    * **Summary:** Retrieve a list of all active chat sessions.
-    * **Description:** Returns details for all chat sessions currently considered active in the queue.
+* **`GET /api/Chat/get-all-chats`**
+    * **Summary:** Retrieve a list of all chat sessions.
+    * **Description:** Returns details for all chat sessions.
     * **Responses:** `200 OK` with a `List<ChatSession>`.
 
 ---
