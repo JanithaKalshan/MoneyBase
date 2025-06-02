@@ -1,0 +1,6 @@
+@MoneyBase.API_HostAddress = http://localhost:5241
+
+GET {{MoneyBase.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

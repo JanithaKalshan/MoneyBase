@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBase.API", "MoneyBase.API\MoneyBase.API.csproj", "{C0E11171-42A1-4B4A-AC12-EDADD78DD3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBase.Application", "MoneyBase.Application\MoneyBase.Application.csproj", "{CDC3674B-BCA1-49F1-A5EC-6E90465FC98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBase.Domain", "MoneyBase.Domain\MoneyBase.Domain.csproj", "{FE9E97A7-45D0-4959-B246-13C756F92931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBase.Infrastructure", "MoneyBase.Infrastructure\MoneyBase.Infrastructure.csproj", "{FE3F7868-4B3F-4FDE-A2F1-AF52A47DE751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBase.Test", "MoneyBase.Test\MoneyBase.Test.csproj", "{F5938BF9-37B3-4303-8C82-45DED8879AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E11171-42A1-4B4A-AC12-EDADD78DD3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E11171-42A1-4B4A-AC12-EDADD78DD3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E11171-42A1-4B4A-AC12-EDADD78DD3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E11171-42A1-4B4A-AC12-EDADD78DD3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC3674B-BCA1-49F1-A5EC-6E90465FC98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC3674B-BCA1-49F1-A5EC-6E90465FC98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC3674B-BCA1-49F1-A5EC-6E90465FC98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC3674B-BCA1-49F1-A5EC-6E90465FC98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9E97A7-45D0-4959-B246-13C756F92931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9E97A7-45D0-4959-B246-13C756F92931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9E97A7-45D0-4959-B246-13C756F92931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9E97A7-45D0-4959-B246-13C756F92931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3F7868-4B3F-4FDE-A2F1-AF52A47DE751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3F7868-4B3F-4FDE-A2F1-AF52A47DE751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3F7868-4B3F-4FDE-A2F1-AF52A47DE751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3F7868-4B3F-4FDE-A2F1-AF52A47DE751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5938BF9-37B3-4303-8C82-45DED8879AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5938BF9-37B3-4303-8C82-45DED8879AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5938BF9-37B3-4303-8C82-45DED8879AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5938BF9-37B3-4303-8C82-45DED8879AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F7BEF8-C2EE-4A64-99A2-0227ACC82C93}
+	EndGlobalSection
+EndGlobal
