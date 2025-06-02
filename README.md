@@ -17,8 +17,7 @@ This repository hosts a backend service for managing chat sessions, built with a
     * [Chat Queue Service (`IChatQueueService`)](#chat-queue-service-ichatqueueservice)
     * [Teams Creator (`TeamsCreator`)](#teams-creator-teamscreator)
     * [API Endpoints](#api-endpoints)
-5.  [Contributing](#contributing)
-6.  [License](#license)
+
 
 ## About The Project
 
