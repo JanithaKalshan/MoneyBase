@@ -87,7 +87,7 @@ To run the web API locally:
     The API will typically run on `https://localhost:7076` (port varies). The console output will show the exact URLs.
 
 3.  **Access Swagger UI:** Once the application is running, you can access the interactive API documentation and test the endpoints via Swagger UI at:
-    `https://localhost:7076/swagger` 
+    `[https://localhost:7076/index.html]` 
 ### Running Tests
 
 The project includes both Unit Tests and Integration Tests to ensure high code quality.
